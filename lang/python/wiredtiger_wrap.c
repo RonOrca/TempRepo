@@ -3057,7 +3057,7 @@ static swig_module_info swig_module = {swig_types, 29, 0, 0, 0, 0};
 
 
 
-#include "src/include/wt_internal.h"
+#include "../../src/include/wt_internal.h"
 
 /*
  * Closed handle checking:
